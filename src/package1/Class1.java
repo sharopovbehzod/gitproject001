@@ -21,10 +21,9 @@ public class Class1 {
 		 * do not have, then you should first pull them and make changes and push to remote.
 		 *  Otherwise you will face an error message:
 		 */
+		//Here is bekhzod conflicting change
 		
 		
-		
-
 	}
 
 }
