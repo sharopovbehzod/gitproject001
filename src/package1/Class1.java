@@ -15,6 +15,7 @@ public class Class1 {
 		//here is an issue on local master branch
 
 		//Here is remote change
+		//Here is remote change222
 
 		
 		
