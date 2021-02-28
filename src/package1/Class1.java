@@ -11,7 +11,7 @@ public class Class1 {
 		//welcom to git sessions
 		//Thank you for joining
 		//here is a new commit
-		
+		//here is an issue on local master branch
 		
 		
 		
