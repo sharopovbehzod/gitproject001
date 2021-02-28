@@ -16,8 +16,11 @@ public class Class1 {
 
 		//Here is remote change
 		//Here is remote change222
-
-		
+		/*
+		 * When you have new changes on your local and there are works done on the remote that you 
+		 * do not have, then you should first pull them and make changes and push to remote.
+		 *  Otherwise you will face an error message:
+		 */
 		
 		
 		
